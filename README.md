@@ -12,3 +12,5 @@
 * [获取应用的MD5,SHA1,SHA256信息](https://github.com/103style/AndroidLearning/blob/master/SHA256/readme.md)
 
 * [ApkTool](https://github.com/103style/AndroidLearning/tree/master/apktool)
+
+* [一键生成Android iOS icon尺寸 ](https://github.com/ThisisGame/MultiSizeIcon)
