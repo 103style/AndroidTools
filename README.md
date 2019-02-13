@@ -13,4 +13,4 @@
 
 * [ApkTool](https://github.com/103style/AndroidLearning/tree/master/apktool)
 
-* [一键生成Android iOS icon尺寸 ](https://github.com/ThisisGame/MultiSizeIcon)
+* [一键生成Android iOS icon尺寸](https://github.com/103style/AndroidTools/blob/master/MultiSizeIcon.rar)  [forked here](https://github.com/ThisisGame/MultiSizeIcon)
