@@ -9,6 +9,8 @@
 
 * [apktools反编译apk](https://github.com/103style/Apktools)
 
+* [dex2jar](https://github.com/103style/AndroidTools/blob/master/dex2jar_readme.md)
+
 * [获取应用的MD5,SHA1,SHA256信息](https://github.com/103style/AndroidLearning/blob/master/SHA256/readme.md)
 
 * [ApkTool](https://github.com/103style/AndroidLearning/tree/master/apktool)
