@@ -7,7 +7,7 @@
 
 * [git 配置 ssh](https://github.com/103style/AndroidLearning/blob/master/ssh/readme.md)
 
-* [apktools反编译apk](https://github.com/103style/Apktools)
+* [apktools反编译apk](https://github.com/103style/AndroidTools/tree/master/android_apktools)
 
 * [dex2jar](https://github.com/103style/AndroidTools/blob/master/dex2jar_readme.md)
 
