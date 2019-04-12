@@ -1,7 +1,7 @@
 # Apktools
 
 ### 前提
-* 配置好java环境 cmd 试试 javac 能不能用， 不能用血药在path路径下添加javac的路径，在java目录下的bin下面
+* 配置好java环境 cmd 试试 javac 能不能用， 不能用需要在path路径下添加javac的路径，在java目录下的bin下面
 
 
 ### 步骤
