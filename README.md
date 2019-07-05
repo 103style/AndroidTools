@@ -14,3 +14,5 @@
 * [获取应用的MD5,SHA1,SHA256信息](https://github.com/103style/AndroidLearning/blob/master/SHA256/readme.md)
 
 * [一键生成Android iOS icon尺寸](https://github.com/103style/AndroidTools/blob/master/MultiSizeIcon.rar) ----  **[使用方法](https://github.com/103style/AndroidTools/blob/master/MultiSizeIcon%20readme.md)**--- [forked here](https://github.com/ThisisGame/MultiSizeIcon) 
+
+* [gradle 相关](https://github.com/103style/AndroidTools/blob/master/gradle%E8%AE%B0%E5%BD%95.md)
