@@ -1,6 +1,8 @@
-### gradle记录
+### gradle相关
 
 * 查看项目的依赖包的完整信息
+  * 直接运行 `./gradlew :app:dependencies --configuration compile`
+  * 打开项目，点击Android Studio 左侧的 Gradle 按钮,双击运行`:app -> Tasks -> help -> dependencies`。
   
 
 * 去掉重复依赖的库
