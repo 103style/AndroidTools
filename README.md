@@ -18,3 +18,5 @@
 * [gradle 相关](https://github.com/103style/AndroidTools/blob/master/gradle%E8%AE%B0%E5%BD%95.md)
 
 * [lint配置](https://github.com/103style/AndroidTools/blob/master/lint%E9%85%8D%E7%BD%AE.md)
+
+* [抓Android日志脚本](https://github.com/103style/AndroidTools/tree/master/Android%E6%8A%93%E6%97%A5%E5%BF%97%E8%84%9A%E6%9C%AC)
