@@ -7,6 +7,13 @@
 
 * [git 配置 ssh](https://github.com/103style/AndroidLearning/blob/master/ssh/readme.md)
 
+* git 配置/取消 代理
+  ```
+  git config --global https.proxy http://127.0.0.1:1080
+  
+  git config --global --unset http.proxy
+  ```
+
 * [apktools反编译apk](https://github.com/103style/AndroidTools/tree/master/android_apktools)
 
 * [dex2jar](https://github.com/103style/AndroidTools/blob/master/dex2jar_readme.md)
