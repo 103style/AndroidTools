@@ -51,9 +51,8 @@
   u0_a239   7510  7499  1131304 53268 binder_thr 00000000 S Binder_1
   u0_a239   7511  7499  1131304 53268 binder_thr 00000000 S Binder_2
   u0_a239   7514  7499  1131304 53268 futex_wait 00000000 S .1, thread No.1
-  u0_a239   7516  7499  1131304 53268 SyS_epoll_ 00000000 S LeakCanary-Heap
-  u0_a239   7517  7499  1131304 53268 futex_wait 00000000 S AsyncTask #1
   u0_a239   7525  7499  1131304 53268 SyS_epoll_ 00000000 S RenderThread
   u0_a239   7530  7499  1131304 53268 futex_wait 00000000 S hwuiTask1
   u0_a239   7531  7499  1131304 53268 futex_wait 00000000 S hwuiTask2
+  u0_a239   11619 11600 1127052 48216 binder_thr 00000000 S Binder_3
   ```
