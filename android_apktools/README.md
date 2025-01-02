@@ -32,7 +32,13 @@
   * 然后重新签名
     ```
     jarsigner -verbose -keystore keystorename.keystore -signedjar name_signed.apk \name\dist\name.apk keystorename.keystore
-    ``
+    ```
+
+### smali文件转换为java文件
+可以使用工具 [jadx](https://github.com/skylot/jadx/releases) 将smali转成java文件
+```
+./jadx xxx.smali 
+```
     
 #### 参考
   * [Apktool重打包Apk详细介绍](https://blog.csdn.net/u010889616/article/details/78198822#commentBox)
